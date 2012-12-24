@@ -73,7 +73,6 @@ MODULE_EXCLUDES =[
 'tty',
 'webbrowser',
 'socket',
-'hashlib',
 'base64',
 'compiler',
 'pydoc']
